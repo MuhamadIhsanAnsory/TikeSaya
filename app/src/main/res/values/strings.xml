@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gow!</string>
+    <string name="slogan">Liburan Jadi Lebih Seru!</string>
+    <string name="signin">SIGN IN</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="email_label">Email Address</string>
+    <string name="continue_label">continue</string>
+    <string name="name_label">Name</string>
+    <string name="bio_label">Your Passion?</string>
+    <string name="explore">EXPLORE NOW</string>
+
+</resources>

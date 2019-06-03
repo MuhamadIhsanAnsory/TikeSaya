@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "675688688464",
+    "firebase_url": "https://tikesaya.firebaseio.com",
+    "project_id": "tikesaya",
+    "storage_bucket": "tikesaya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675688688464:android:38dce504e4d8034c",
+        "android_client_info": {
+          "package_name": "com.ritugo.tikesaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675688688464-o8luik5mpsqb01r2qnfp9321la39qr7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ritugo.tikesaya",
+            "certificate_hash": "21730ccf4958fc10b6a105993fb2a97f88938df5"
+          }
+        },
+        {
+          "client_id": "675688688464-ukjdv9ftlbho7l16qf1umpnam4v5hq9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCchDBITcAx9vpyQXJWJK0cZS_4BEA0OxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675688688464-ukjdv9ftlbho7l16qf1umpnam4v5hq9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
